@@ -28,4 +28,4 @@ Demonstrar minhas habilidades no desenvolvimento web com foco em:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/seu-usuario/consiencia-negra
